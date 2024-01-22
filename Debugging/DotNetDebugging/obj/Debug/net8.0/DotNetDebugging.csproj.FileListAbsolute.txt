@@ -1,0 +1,14 @@
+/Users/joaoverdilheiro/Desktop/NET_Projects/Debugging/DotNetDebugging/bin/Debug/net8.0/DotNetDebugging
+/Users/joaoverdilheiro/Desktop/NET_Projects/Debugging/DotNetDebugging/bin/Debug/net8.0/DotNetDebugging.deps.json
+/Users/joaoverdilheiro/Desktop/NET_Projects/Debugging/DotNetDebugging/bin/Debug/net8.0/DotNetDebugging.runtimeconfig.json
+/Users/joaoverdilheiro/Desktop/NET_Projects/Debugging/DotNetDebugging/bin/Debug/net8.0/DotNetDebugging.dll
+/Users/joaoverdilheiro/Desktop/NET_Projects/Debugging/DotNetDebugging/bin/Debug/net8.0/DotNetDebugging.pdb
+/Users/joaoverdilheiro/Desktop/NET_Projects/Debugging/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaoverdilheiro/Desktop/NET_Projects/Debugging/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.AssemblyInfoInputs.cache
+/Users/joaoverdilheiro/Desktop/NET_Projects/Debugging/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.AssemblyInfo.cs
+/Users/joaoverdilheiro/Desktop/NET_Projects/Debugging/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.csproj.CoreCompileInputs.cache
+/Users/joaoverdilheiro/Desktop/NET_Projects/Debugging/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.dll
+/Users/joaoverdilheiro/Desktop/NET_Projects/Debugging/DotNetDebugging/obj/Debug/net8.0/refint/DotNetDebugging.dll
+/Users/joaoverdilheiro/Desktop/NET_Projects/Debugging/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.pdb
+/Users/joaoverdilheiro/Desktop/NET_Projects/Debugging/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.genruntimeconfig.cache
+/Users/joaoverdilheiro/Desktop/NET_Projects/Debugging/DotNetDebugging/obj/Debug/net8.0/ref/DotNetDebugging.dll
