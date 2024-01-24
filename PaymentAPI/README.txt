@@ -14,4 +14,6 @@ Tecnologias:
 
 - Microsoft 
 
+
 - SQL Server Managment Studio 19
+
