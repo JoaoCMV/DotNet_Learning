@@ -4,9 +4,23 @@ Course form Udemy to use Angular with .NET and EF.
 
 # Setup
 
+## ANGULAR Setup:
+
 Start ANGULAR 17:
 ```
 ng new UdemyCourse --no-standalone
+```
+
+Create new component:
+
+```
+ng g c <component_name>
+```
+
+Create new service:
+
+```
+ng g s <service_name>
 ```
 
 
