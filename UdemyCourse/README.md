@@ -1,6 +1,6 @@
 # Introduction
 
-Course form Udemy to use Angular with .NET and EF.
+Course from Udemy to use Angular with .NET and EF.
 
 # Setup
 
